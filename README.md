@@ -10,7 +10,7 @@
 # Sobre o projeto
 ### Um projeto utilizando do 3D como base, onde há a possibilidade de customização de uma camisa
 ## Layout 
-<img src="./readme/img1.png" alt="@duck_web" height="200"><img src="./readme/img2.png" alt="@duck_web" height="200">
+<img src="./readme/img1.PNG" alt="@duck_web" height="200"><img src="./readme/img2.PNG" alt="@duck_web" height="200">
 
 ![Ferramentas](https://img.shields.io/badge/Configuração-⚙️-blue)
 - React.js - Vite
