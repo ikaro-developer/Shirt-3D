@@ -2,7 +2,7 @@
    <a href="https://github.com/duck-developer">
     <img style="border-radius: 50%; overflow: hidden; width: 140px; height: 140px;" src="./readme/duck.web.png" alt="@Duck.Web" >
   </a>
-  <h1 align="center">Duck Flix</h1>
+  <h1 align="center">Shirt 3D</h1>
 </p>
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
