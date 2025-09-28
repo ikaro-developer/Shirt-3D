@@ -1,6 +1,6 @@
 <p align="center">
    <a href="https://github.com/duck-developer">
-    <img style="border-radius: 50%; overflow: hidden; width: 140px; height: 140px;" src="./readme/duck.web.png" alt="@Duck.Web" >
+    <img style="border-radius: 50%; overflow: hidden; width: 140px; height: 140px;" src="https://avatars.githubusercontent.com/u/167935329?v=4" alt="@Duck.Web" >
   </a>
   <h1 align="center">Shirt 3D</h1>
 </p>
